@@ -1,0 +1,2 @@
+
+ssh -i "C:\Users\Neeraj Padghan\OneDrive\sem 5\CCD\Practical\ids\General-key.pem" ec2-user2@54.159.246.193
